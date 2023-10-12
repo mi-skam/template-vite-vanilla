@@ -20,7 +20,7 @@
     "@new-objects/prettier-config": "^0.0.2",
     "husky": "^8.0.3",
     "prettier": "^3.0.3",
-    "vite": "^4.4.5",
+    "vite": "^4.4.11",
     "vite-plugin-eslint": "^1.8.1"
   }
 }
