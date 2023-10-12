@@ -1,6 +1,1 @@
-{
-  "tabWidth": 2,
-  "useTabs": false,
-  "semi": true,
-  "singleQuote": true
-}
+"@new-objects/prettier-config"
