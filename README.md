@@ -8,7 +8,7 @@
 # Install dependencies
 npm install
 
-# Init husky
+# Init husky and install peer dependencies
 npm run prepare
 
 # Run dev server
